@@ -21,3 +21,11 @@ To enhance productivity, CodeSync integrates an AI-powered coding assistant usin
 Additional features include role-based access control (Owner, Editor, Viewer), real-time chat for communication, version control through code snapshots, and secure authentication using JSON Web Tokens (JWT). These features collectively ensure a secure, scalable, and user-centric collaborative environment.
 Performance evaluations demonstrate that the platform can handle multiple concurrent users with efficient synchronization and stable connections, making it suitable for educational use, team collaboration, and technical interviews.
 Overall, CodeSync represents a comprehensive solution for modern collaborative coding, combining real-time interaction, execution capabilities, and AI assistance into a single powerful platform.
+<img width="1913" height="859" alt="Screenshot 2026-04-22 135624" src="https://github.com/user-attachments/assets/1d343396-8941-40a1-8f7c-791fb63dfd10" />
+<img width="1919" height="853" alt="Screenshot 2026-04-22 135644" src="https://github.com/user-attachments/assets/873479d1-003e-4756-a083-eb5d59af36b2" />
+<img width="1919" height="859" alt="Screenshot 2026-04-22 135656" src="https://github.com/user-attachments/assets/451f4c99-fa43-41de-8ad8-ffcbf28ddb02" />
+<img width="1916" height="866" alt="Screenshot 2026-04-22 135840" src="https://github.com/user-attachments/assets/7a1f2850-0518-4c13-8df7-4d0fcd38c687" />
+<img width="1907" height="870" alt="Screenshot 2026-04-22 135859" src="https://github.com/user-attachments/assets/2ee13ccc-4813-4b2e-af17-4cf05ecbb1be" />
+
+
+
